@@ -1,0 +1,4 @@
+business id	959802602346	business name	test48	business owner	bob	phone number	94573742	email	bob@gmail.com	discount day	10/12	free delivery	10/12	2for1	2353211335	postcode	1231234	address	1232134
+business id	257101359093	business name	wesarwer	business owner	werwer	phone number	43523452345	email	23453425	discount day	342523	free delivery	32452345	2for1	23453254	postcode	2345345	address	235345
+business id	222210962394	business name	3333	business owner	3	phone number	3	email	3	discount day	3	free delivery	3	2for1		postcode		address	3
+business id	218424847120	business name	2	business owner	2	phone number	2	email	2	discount day	2	free delivery	2	2for1	2	postcode	2	address	2
