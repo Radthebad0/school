@@ -1,0 +1,10 @@
+<html>
+<head>
+</head>
+<title> smart homes </title>
+<body>
+<h1><b>Smart homes</b></h1>
+<img src="SmartHome.JPG" height="200px" width=" 300px"/>
+
+</body>
+</body>
